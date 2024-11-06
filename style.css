@@ -1,0 +1,40 @@
+img {
+  width: 125px;
+  height: 125px;
+  border-radius: 50%;
+} 
+
+body {
+  background-color: rgb(233, 105, 216);
+  h1 {
+  color: black;
+  background-color: lightblue;
+}
+}
+
+h1 {
+  color: black;
+  background-color: lightblue;
+}
+
+h3 {
+  
+  color: rgb(0, 0, 0);
+  background-color: rgb(255, 185, 158);
+}
+
+div {
+  margin: 10px;
+  border:5px dashed lightyellow;
+  padding: 7px;
+  color: black;
+}
+
+header {
+  background-color: rgb(245, 107, 226);
+  display: flex;
+  flex-direction: column; 
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: middle;
+}
